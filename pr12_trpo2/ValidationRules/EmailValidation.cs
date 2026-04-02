@@ -1,4 +1,5 @@
 ﻿using pr12_trpo2.Data;
+using pr12_trpo2.Pages;
 using pr12_trpo2.Service;
 
 using System;
@@ -18,7 +19,7 @@ namespace pr12_trpo2.ValidationRules
         {
             foreach (Users user in UserService.Users)
             {
-                if (user.Email.ToLower() == input.ToLower())
+                if (user.Email.ToLower() == input.ToLower() && user.Id != UserFormPage.EditingUser?.Id)
                     return false;
             }
             return true;

@@ -1,5 +1,6 @@
 ﻿using pr12_trpo2.Data;
 using pr12_trpo2.Service;
+using pr12_trpo2.Pages;
 
 using System;
 using System.Collections.Generic;
@@ -13,17 +14,12 @@ namespace pr12_trpo2.ValidationRules
 {
     public class LoginValidation : ValidationRule
     {
-        public int CurrentUserId { get; set; }
-        
-        public static bool IsUnique(string input, int currentUserId)
+        public static bool IsUnique(string input)
         {
-
+            if (input != string.Empty)
             foreach (Users user in UserService.Users)
             {
-                //if (currentUserId != 0 && user.Id == currentUserId)
-                
-                
-                if (user.Login.ToLower() == input.ToLower())
+                if (user.Login.ToLower() == input.ToLower() && user.Id != UserFormPage.EditingUser?.Id)
                     return false;
             }
             return true;
@@ -35,9 +31,7 @@ namespace pr12_trpo2.ValidationRules
             if (input == string.Empty)
                 return new ValidationResult(false, "Значение не может быть пустым");
 
-            //if()
-
-            if (!IsUnique(input, CurrentUserId))
+            if (!IsUnique(input))
                 return new ValidationResult(false, "Данный логин уже занят");
 
             if (input.Length < 5)

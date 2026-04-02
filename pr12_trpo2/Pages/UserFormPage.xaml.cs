@@ -1,5 +1,6 @@
 ﻿using pr12_trpo2.Service;
 using pr12_trpo2.Data;
+using pr12_trpo2.ValidationRules;
 
 using System;
 using System.Collections.Generic;
@@ -26,9 +27,8 @@ namespace pr12_trpo2.Pages
     {
         private UserService _service = new();
         public Users _user = new();
+        public static Users EditingUser { get; set; }
         bool isEdit = false;
-
-        public int CurrentUserId { get; set; }
 
         public UserFormPage(Users? _editUser = null)
         {
@@ -37,7 +37,7 @@ namespace pr12_trpo2.Pages
             {
                 _user = _editUser;
                 isEdit = true;
-                CurrentUserId = _user.Id;
+                EditingUser = _user;
             }
             DataContext = _user;
         }

@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\validationrules\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\validationrules\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\validationrules\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\validationrules\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\validationrules\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\validationrules\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\validationrules\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\validationrules\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\validationrules\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\validationrules\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|c:\\users\\st310-10\\desktop\\pr12_trpo-main\\pr12_trpo2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05958303-A417-47E8-AFA3-291689368702}|pr12_trpo2\\pr12_trpo2.csproj|solutionrelative:pr12_trpo2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Data\\Users.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\Data\\Users.cs",
               "ToolTip": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Data\\Users.cs",
               "RelativeToolTip": "pr12_trpo2\\Data\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T08:12:53.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T08:12:53.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\Service\\UserService.cs",
@@ -79,38 +78,37 @@
               "RelativeToolTip": "pr12_trpo2\\Service\\UserService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:51:52.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:51:52.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "EmailValidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\ValidationRules\\EmailValidation.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\ValidationRules\\EmailValidation.cs",
               "ToolTip": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\ValidationRules\\EmailValidation.cs",
               "RelativeToolTip": "pr12_trpo2\\ValidationRules\\EmailValidation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:42:46.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoginValidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\ValidationRules\\LoginValidation.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\ValidationRules\\LoginValidation.cs",
               "ToolTip": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\ValidationRules\\LoginValidation.cs",
               "RelativeToolTip": "pr12_trpo2\\ValidationRules\\LoginValidation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:37:01.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreatedAtValidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\ValidationRules\\CreatedAtValidation.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\ValidationRules\\CreatedAtValidation.cs",
@@ -123,19 +121,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "pr12_trpo2\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\MainWindow.xaml",
               "RelativeToolTip": "pr12_trpo2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-26T05:45:40.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T05:45:40.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Pages\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\Pages\\MainPage.xaml.cs",
@@ -148,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "pr12_trpo2\\Pages\\MainPage.xaml",
@@ -160,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\App.xaml",
               "RelativeDocumentMoniker": "pr12_trpo2\\App.xaml",
@@ -172,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserFormPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Pages\\UserFormPage.xaml.cs",
               "RelativeDocumentMoniker": "pr12_trpo2\\Pages\\UserFormPage.xaml.cs",
               "ToolTip": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Pages\\UserFormPage.xaml.cs",
               "RelativeToolTip": "pr12_trpo2\\Pages\\UserFormPage.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T03:51:24.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserFormPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\pr12_trpo-main\\pr12_trpo2\\Pages\\UserFormPage.xaml",
               "RelativeDocumentMoniker": "pr12_trpo2\\Pages\\UserFormPage.xaml",
